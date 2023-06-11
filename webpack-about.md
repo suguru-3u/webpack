@@ -1,5 +1,7 @@
 # 1.webpack とは
 
+参考サイト:https://zenn.dev/soarflat/books/a673b77fce39082e2324
+
 webpack はフロントエンド開発用のモジュールバンドラ。
 「モジュールバンドラ」とは、複数のモジュールをまとめるツールのことであり、「モジュール」は JavaScript ファイルなどのことを指している。
 そのため、簡潔に言ってしまえば、webpack は複数の JavaScript ファイルなどをまとめるツール。
